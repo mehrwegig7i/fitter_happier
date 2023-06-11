@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
