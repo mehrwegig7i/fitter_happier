@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add C++ Classify inference example (#6868)
