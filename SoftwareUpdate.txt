@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
