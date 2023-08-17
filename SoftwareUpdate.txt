@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix Multi-GPU resume bug (#7328)
