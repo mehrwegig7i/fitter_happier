@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add missing single-line docstrings (#8362)
