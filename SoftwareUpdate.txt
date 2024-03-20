@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add C++ Classify inference example (#6868)
