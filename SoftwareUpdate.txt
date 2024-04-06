@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
